@@ -14,13 +14,12 @@
     </a>
  </h3>
 
-<br/>
 <h3 align="center">
 Minhas Skills
 </h3>
 
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.svg" alt="stacks"/>
+<img width="70%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/skills.png" alt="cover" />
 </h3>
 
 <!--
