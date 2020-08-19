@@ -12,19 +12,28 @@
 
 <br><br>
 
-![Vinícius GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciusgoliver&show_icons=true)
+<h3 align="center"> Hi there 👋</h3>
 
+<p align="center">
+I'm Akas, a self-motivated tech enthusiast and full stack web developer.
+</p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<h4 align="center">
+💻 full stack developer <a href="https://github.com/machnetinc">@Machnet</a> | 🌱 building <a href="https://github.com/akasrai/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://twitter.com/akaskyiar">@akaskyiar</a>
+</h4>
+<p  align="center">
+<a href="https://akasrai.github.io/">https://akasrai.github.io</a>
+</p>
 
+<br/>
+<h3 align="center">
+My Tech Stacks
+</h3>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.svg" alt="stacks"/>
+</h3>
+⭐️ From [akasrai](https://github.com/[akasrai])`
 
 <!--
 **viniciusgoliver/viniciusgoliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
