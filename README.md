@@ -12,10 +12,20 @@
 
 <br><br>
 
-<h3 align="center"> Hi there 👋</h3>
+<h3 align="center"> Este sou eu 👋</h3>
+
+<a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5548991779450">
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
+<a target="_blank" href="mailto:vinicius.oliver@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 <p align="center">
-I'm Akas, a self-motivated tech enthusiast and full stack web developer.
+Full Stack Web Developer, amante de tecnologia e 100% Família.
 </p>
 
 <h4 align="center">
