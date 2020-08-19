@@ -15,11 +15,8 @@
  </h3>
 
 <h3 align="center">
-Minhas Skills
-</h3>
-
-<h3 align="center">
-<img width="70%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/skills.png" alt="cover" />
+    Minhas Skills
+    <img width="70%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/skills.png" alt="cover" />
 </h3>
 
 <!--
