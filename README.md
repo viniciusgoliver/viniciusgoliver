@@ -16,28 +16,29 @@
 
 <h3 align="center">
     Minhas Skills
+    <br>
     <table>
       <tbody>
         <tr valign="top">
           <td width="25%" align="center">
-            <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+            <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
           </td>
           <td width="25%" align="center">
-            <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+            <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
           </td>
           <td width="25%" align="center">
-            <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+            <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
           </td>
           <td width="25%" align="center">
-            <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+            <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
           </td>
         </tr>
         <tr valign="top">
           <td width="25%" align="center">
-            <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
+            <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
           </td>
           <td width="25%" align="center">
-            <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
+            <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
           </td>
           <td width="25%" align="center">
             <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
