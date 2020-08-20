@@ -3,7 +3,7 @@
 <p align="center">Full Stack Web Developer, amante de tecnologia e 100% Família.</p>
 
 <h3 align="center">
-    <a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
+    <a target="_blank" href="https://www.linkedin.com/in/viniciusgo/">
       <img alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
     </a>
     <a target="_blank" href="https://api.whatsapp.com/send?phone=5548991779450">
