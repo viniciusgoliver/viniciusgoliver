@@ -16,7 +16,7 @@
 
 <h3 align="center">
     Minhas Skills
-    <br>
+    <br><br>
     <table>
       <tbody>
         <tr valign="top">
@@ -49,6 +49,20 @@
         </tr>
         <tr valign="top">
           <td width="25%" align="center">
+            <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+          </td>
+          <td width="25%" align="center">
+            <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+          </td>
+          <td width="25%" align="center">
+            <img height="64px" src="https://portaldosaber.net/wp-content/uploads/2017/09/MS-SQL-Server.png">
+          </td>
+          <td width="25%" align="center">
+            <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+          </td>
+        </tr>  
+        <tr valign="top">
+          <td width="25%" align="center">
             <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
           </td>
           <td width="25%" align="center">
@@ -60,21 +74,21 @@
           <td width="25%" align="center">
             <img height="64px" src="https://cdn.svgporn.com/logos/materializecss.svg">
           </td>
-        </tr>
-          <tr valign="top">
+        </tr>        
+        <tr valign="top">
           <td width="25%" align="center">
-            <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+            <img height="64px" src="https://cdn.svgporn.com/logos/docker.svg">
           </td>
           <td width="25%" align="center">
-            <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+            <img height="64px" src="https://cdn.svgporn.com/logos/vagrant.svg">
           </td>
           <td width="25%" align="center">
-            <img height="64px" src="https://www.pngfind.com/pngs/m/418-4183674_microsoft-sql-server-logo-sql-server-logo-svg.png">
+            <img height="64px" src="https://cdn.svgporn.com/logos/ubuntu.svg">
           </td>
           <td width="25%" align="center">
-            <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+            <img height="64px" src="https://cdn.svgporn.com/logos/microsoft-windows.svg">
           </td>
-        </tr>
+        </tr>        
       </tbody>
     </table>
 </h3>
