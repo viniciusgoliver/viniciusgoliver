@@ -35,14 +35,14 @@
         </tr>
         <tr valign="top">
           <td width="25%" align="center">
+            <img height="64px" src="https://cdn.svgporn.com/logos/nestjs.svg">
+          </td>
+          <td width="25%" align="center">
             <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
           </td>
           <td width="25%" align="center">
             <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-          </td>
-          <td width="25%" align="center">
-            <img height="64px" src="https://cdn.svgporn.com/logos/nestjs.svg">
-          </td>
+          </td>          
           <td width="25%" align="center">
             <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
           </td>
