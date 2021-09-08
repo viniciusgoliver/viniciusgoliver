@@ -27,15 +27,15 @@
             <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
           </td>
           <td width="25%" align="center">
-           <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
+            <img height="64px" src="https://cdn.svgporn.com/logos/nestjs.svg">
           </td>
           <td width="25%" align="center">
-           <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
-          </td>
+           <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
+          </td>          
         </tr>
         <tr valign="top">
           <td width="25%" align="center">
-            <img height="64px" src="https://cdn.svgporn.com/logos/nestjs.svg">
+           <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
           </td>
           <td width="25%" align="center">
             <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
