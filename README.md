@@ -44,7 +44,7 @@
             <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
           </td>          
           <td width="25%" align="center">
-            <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+            <img height="64px" src="https://cdn.svgporn.com/logos/svelte.svg">
           </td>
         </tr>
         <tr valign="top">
