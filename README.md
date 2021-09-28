@@ -31,17 +31,13 @@
           </td>    
           <td width="25%" align="center">
            <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
-          </td>
-          <td width="25%" align="center">
-           <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
-          </td>
-          <td width="25%" align="center">
-           <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
-          </td>
+          </td>       
           <td width="25%" align="center">
             <img height="64px" src="https://cdn.svgporn.com/logos/slim.svg">
-          </td>
-                       
+          </td> 
+          <td width="25%" align="center">
+           <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
+          </td>                                
         </tr>
         <tr valign="top">
           <td width="25%" align="center">
