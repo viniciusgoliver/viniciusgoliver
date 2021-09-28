@@ -19,19 +19,25 @@
     <br><br>
     <table>
       <tbody>
+
         <tr valign="top">          
+<td width="25%" align="center"></td>
           <td width="25%" align="center">
             <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
           </td>          
+          <td width="25%" align="center">
+           <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
+          </td>    
+<td width="25%" align="center"></td>
+</tr>   
+<tr valign="top"> 
           <td width="25%" align="center">
             <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
           </td>          
           <td width="25%" align="center">
             <img height="64px" src="https://cdn.svgporn.com/logos/nestjs.svg">
           </td>    
-          <td width="25%" align="center">
-           <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
-          </td>       
+          
           <td width="25%" align="center">
             <img height="64px" src="https://cdn.svgporn.com/logos/slim.svg">
           </td> 
@@ -98,6 +104,7 @@
       </tbody>
     </table>
 </h3>
+
 
 <!--
 **viniciusgoliver/viniciusgoliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
