@@ -24,14 +24,24 @@
             <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
           </td>          
           <td width="25%" align="center">
+            <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
+          </td>          
+          <td width="25%" align="center">
+            <img height="64px" src="https://cdn.svgporn.com/logos/nestjs.svg">
+          </td>    
+          <td width="25%" align="center">
            <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
           </td>
           <td width="25%" align="center">
-            <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+           <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
           </td>
           <td width="25%" align="center">
-            <img height="64px" src="https://cdn.svgporn.com/logos/nestjs.svg">
-          </td>                 
+           <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
+          </td>
+          <td width="25%" align="center">
+            <img height="64px" src="https://cdn.svgporn.com/logos/slim.svg">
+          </td>
+                       
         </tr>
         <tr valign="top">
           <td width="25%" align="center">
