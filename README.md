@@ -88,7 +88,21 @@
           <td width="25%" align="center">
             <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
           </td>
-        </tr>        
+        </tr>
+        <tr valign="top">
+          <td width="25%" align="center">
+            <img height="64px" src="https://cdn.svgporn.com/logos/terraform.svg">
+          </td>
+          <td width="25%" align="center">
+            <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
+          </td>
+          <td width="25%" align="center">
+            
+          </td>
+          <td width="25%" align="center">
+            
+          </td>
+        </tr>
       </tbody>
     </table>
 </h3>
