@@ -1,6 +1,6 @@
 <h3 align="center"> Este sou eu 👋</h3>
 
-<p align="center">Full Stack Web Developer, amante de tecnologia e 100% Família.</p>
+<p align="center">Full Stack Developer, amante de tecnologia e 100% Família.</p>
 
 <h3 align="center">
     <a target="_blank" href="https://www.linkedin.com/in/viniciusgo/">
