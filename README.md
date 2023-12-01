@@ -54,7 +54,7 @@
           <td width="25%" align="center">
             <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
           </td>
-          <td width="25%" align="center">
+          <td width="25%" align="center" style="text-align: center; vertical-align: middle;">
             SQL SERVER
           </td>
           <td width="25%" align="center">
