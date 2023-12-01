@@ -55,7 +55,7 @@
             <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
           </td>
           <td width="25%" align="center">
-            <img height="64px" src="https://portaldosaber.net/wp-content/uploads/2017/09/MS-SQL-Server.png">
+            <img height="64px" src="[https://portaldosaber.net/wp-content/uploads/2017/09/MS-SQL-Server.png](https://cdn.cl9.com.br/wp-content/uploads/2020/03/quais-as-diferencas-entre-as-versoes-do-sql-server-p10dnfny4wpoh5oxcvtewb4ezm48eemcycsg2jvhl4.jpg)">
           </td>
           <td width="25%" align="center">
             <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
